@@ -44,12 +44,12 @@ test:
 
 about:
   home: https://mrbuche/github.io/conspire
-  dev_url: https://github.com/mrbuche/conspire.py
+  dev_url: https://github.com/mrbuche/conspire
   license: GPL-2.0-or-later
   license_file:
     - THIRDPARTY.yml
     - LICENSE
-  summary: Conspire is a library for constitutive models and finite elements.
+  summary: c o n s p i r e
 
 extra:
   recipe-maintainers:

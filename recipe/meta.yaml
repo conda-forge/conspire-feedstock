@@ -10,7 +10,7 @@ source:
   sha256: a071b8a9be01a782e1a8abef2414f653fde4067bc3806d71f774a16765c6094e
 
 build:
-  number: 2
+  number: 3
   script:
     - cargo-bundle-licenses --format yaml --output THIRDPARTY.yml
     - {{ PYTHON }} -m pip install . -vv --no-deps --no-build-isolation
@@ -44,6 +44,7 @@ test:
 
 about:
   home: https://mrbuche/github.io/conspire
+  description: c o n s p i r e
   dev_url: https://github.com/mrbuche/conspire
   license: GPL-2.0-or-later
   license_file:

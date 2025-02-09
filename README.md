@@ -3,13 +3,15 @@ About conspire-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/conspire-feedstock/blob/main/LICENSE.txt)
 
-Home: https://mrbuche/github.io/conspire
+Home: https://mrbuche.github.io/conspire
 
 Package license: GPL-2.0-or-later
 
-Summary: Conspire is a library for constitutive models and finite elements.
+Summary: c o n s p i r e
 
-Development: https://github.com/mrbuche/conspire.py
+Development: https://github.com/mrbuche/conspire
+
+c o n s p i r e
 
 Current build status
 ====================

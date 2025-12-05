@@ -1,5 +1,5 @@
 {% set name = "conspire" %}
-{% set version = "0.3.1" %}
+{% set version = "0.4.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/conspire-{{ version }}.tar.gz
-  sha256: 3b5c49dcac555fa5e8b3bf4855ccebcb14998d12dca1078e06b3efc7b0180caf
+  sha256: 28b64ee7bf2e573ee8f89a208ae8cc359be426880ce2b562a4320885c7b209d2
 
 build:
   number: 0
